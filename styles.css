@@ -1,6 +1,7 @@
 h2 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
-    font-size: 3rem
+    font-size: 3rem;
+    color: green
 }
 
 /*This is a comment, CSS will not read this*/
