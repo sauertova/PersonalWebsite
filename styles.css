@@ -1,0 +1,14 @@
+h2 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-size: 3rem
+}
+
+/*This is a comment, CSS will not read this*/
+h1,
+a {
+    color: purple;
+}
+
+a {
+    text-decoration: none;
+}
