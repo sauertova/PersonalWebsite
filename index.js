@@ -26,7 +26,7 @@
 // function birthday(currentAge){
 //     return currentAge + 1;
 // }
-let age = 17;
+// let age = 17;
 // console.log('seventeen', age);
 // age = 18;
 // console.log('reassigned to eighteen', age);
