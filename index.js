@@ -20,7 +20,33 @@ for (var i = 0; i < 5; i++){
     console.log(i);
 }
 
-const age = 17;
-console.log(age);
+// const age = 17;
+// console.log(age);
 
+function birthday(currentAge){
+    return currentAge + 1;
+}
+let age = 17;
+console.log('seventeen', age);
+age = 18;
+console.log('reassigned to eighteen', age);
+
+let nextYears;
+
+ let nextYear;
+
+ nextYear = birthday(age);
+
+console.log(nextYear);
+
+const pi = 3.14,
+e = 2.718;
+console.log('pi', pi);
+console.log('e', e);
+
+console.log(typeof pi);
+console.log(typeof e);
+console.log(typeof nextYear);
+console.log(typeof birthday);
+console.log(typeof true);
 
