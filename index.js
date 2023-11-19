@@ -62,7 +62,7 @@ console.log(myFirstName + ' ' + myLastName.replace('cool', 'awesome'));
 // console.log('5' === 5);
 // console.log('5' == 5);
 // console.log('5' != 5);
-console.log(5 > 3 && 7>2);
+// console.log(5 > 3 && 7>2);
 
 // = for assignment (commonly used with variable or function declarations)
 // == for comparision of values
