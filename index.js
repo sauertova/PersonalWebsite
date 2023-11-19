@@ -19,3 +19,8 @@ function logMyName(){
 for (var i = 0; i < 5; i++){
     console.log(i);
 }
+
+const age = 17;
+console.log(age);
+
+
