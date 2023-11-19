@@ -26,7 +26,7 @@
 // function birthday(currentAge){
 //     return currentAge + 1;
 // }
-// let age = 17;
+let age = 17;
 // console.log('seventeen', age);
 // age = 18;
 // console.log('reassigned to eighteen', age);
@@ -51,6 +51,10 @@
 // console.log(typeof true);
 
 let myFirstName = 'Tova';
-let myLastName = 'Sauer';
+let myLastName = 'Sauer is cool';
 
-console.log(myFirstName + ' ' + myLastName);
+// let myNewLastName = myLastName.replace('cool', 'awesome');
+console.log(myFirstName + ' ' + myLastName.replace('cool', 'awesome'));
+
+console.log(11 / 5);
+console.log(age + 1);
