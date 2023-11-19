@@ -56,12 +56,13 @@ let myLastName = 'Sauer is cool';
 // let myNewLastName = myLastName.replace('cool', 'awesome');
 console.log(myFirstName + ' ' + myLastName.replace('cool', 'awesome'));
 
-console.log(11 / 5);
-console.log(age + 1);
+// console.log(11 / 5);
+// console.log(age + 1);
 
-console.log('5' === 5);
-console.log('5' == 5);
-console.log('5' != 5);
+// console.log('5' === 5);
+// console.log('5' == 5);
+// console.log('5' != 5);
+console.log(5 > 3 && 7>2);
 
 // = for assignment (commonly used with variable or function declarations)
 // == for comparision of values
