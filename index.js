@@ -58,3 +58,11 @@ console.log(myFirstName + ' ' + myLastName.replace('cool', 'awesome'));
 
 console.log(11 / 5);
 console.log(age + 1);
+
+console.log('5' === 5);
+console.log('5' == 5);
+console.log('5' != 5);
+
+// = for assignment (commonly used with variable or function declarations)
+// == for comparision of values
+// === for comparision of values and datatypes
